@@ -36,3 +36,15 @@ The project also does not assume that training a custom model is always the best
 The value of Tecolotl Ranch is to turn difficult-to-review visual data into useful information for decision-making. For ranching, this can support faster cattle counting, animal location, and field supervision. For environmental monitoring, it can help detect wildlife presence and reduce the amount of manual review needed.
 
 Tecolotl Ranch combines drones, computer vision, and field data to build a tool adapted to rural monitoring in northern Mexico.
+
+
+
+## 1 min pitch
+
+**Tecolotl Ranch** is an artificial vision initiative designed to transform the way ranches understand and monitor their land.
+
+By combining drones, artificial intelligence, and computer vision, Tecolotl Ranch seeks to give ranchers a smarter view of what is happening in the field: where animals are located, how livestock moves, and when wildlife appears in the environment.
+
+In large rural areas, supervision is still limited by distance, terrain, weather, visibility, and human availability. Tecolotl Ranch turns aerial imagery into intelligent field insight, helping reduce manual observation and enabling faster, more informed decisions.
+
+The vision is to build an AI-powered monitoring system adapted to real ranching conditions in northern Mexico, where cattle, wildlife, vegetation, shadows, fences, and open terrain create a complex environment that traditional supervision cannot easily scale.
